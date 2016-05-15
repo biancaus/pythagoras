@@ -6,7 +6,7 @@ Features to add:
 
 ^ calculate the result for the hypotenuse
 ^ display the hypotenuse result where it currently reads "result"
-- validate that the input values entered are greater than 0
+^ validate that the input values entered are greater than 0
 ^ display an error message for the user if the input values they are 0 or less
 
 */
